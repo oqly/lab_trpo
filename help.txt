@@ -1,0 +1,4 @@
+Help for calculator:
+1. Execute program
+2. Use program
+3. Exit
